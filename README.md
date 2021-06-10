@@ -1,5 +1,11 @@
 # final-year-project
 
+## Packages required
+<p>Localtunnel : <mark>https://theboroer.github.io/localtunnel-www/</mark></p>
+
+<p>ngrok : <mark>https://ngrok.com/</mark></p>
+
+## Steps
 <p> 1. Run RASA RESTful API.ipynb notebook :warning: except the last 3 cells  </p>
 <p>2. Run the 1st cell out of the last 3. Then, copy the generated ngrok link and paste it as FetchAPI's POST URL. Ex: <code><NGROK_LINK>/requests</code> .Make it to https.</p>
 <p>3. Expose React Website using <code>lt --port PORT NUMBER</code>. Then copy the generated link and paste in the second last cell.</p>
