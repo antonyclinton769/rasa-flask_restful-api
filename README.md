@@ -1,5 +1,7 @@
 # final-year-project
 
+<p>This Flask API is used to establish connection between the website and RASA server.</p>
+
 ## Packages required
 <p>Localtunnel : <mark>https://theboroer.github.io/localtunnel-www/</mark></p>
 
